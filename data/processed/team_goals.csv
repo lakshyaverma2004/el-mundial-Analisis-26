@@ -1,0 +1,145 @@
+match_id,date,stage,group,team,opponent,goals_scored,goals_conceded,result,is_home,venue_country
+537327,2026-06-11,GROUP_STAGE,GROUP_A,Mexico,South Africa,2.0,0.0,W,True,Unknown
+537327,2026-06-11,GROUP_STAGE,GROUP_A,South Africa,Mexico,0.0,2.0,L,False,Unknown
+537328,2026-06-12,GROUP_STAGE,GROUP_A,South Korea,Czechia,2.0,1.0,W,True,Unknown
+537328,2026-06-12,GROUP_STAGE,GROUP_A,Czechia,South Korea,1.0,2.0,L,False,Unknown
+537333,2026-06-12,GROUP_STAGE,GROUP_B,Canada,Bosnia-Herzegovina,1.0,1.0,D,True,Unknown
+537333,2026-06-12,GROUP_STAGE,GROUP_B,Bosnia-Herzegovina,Canada,1.0,1.0,D,False,Unknown
+537345,2026-06-13,GROUP_STAGE,GROUP_D,United States,Paraguay,4.0,1.0,W,True,Unknown
+537345,2026-06-13,GROUP_STAGE,GROUP_D,Paraguay,United States,1.0,4.0,L,False,Unknown
+537334,2026-06-13,GROUP_STAGE,GROUP_B,Qatar,Switzerland,1.0,1.0,D,True,Unknown
+537334,2026-06-13,GROUP_STAGE,GROUP_B,Switzerland,Qatar,1.0,1.0,D,False,Unknown
+537339,2026-06-13,GROUP_STAGE,GROUP_C,Brazil,Morocco,1.0,1.0,D,True,Unknown
+537339,2026-06-13,GROUP_STAGE,GROUP_C,Morocco,Brazil,1.0,1.0,D,False,Unknown
+537340,2026-06-14,GROUP_STAGE,GROUP_C,Haiti,Scotland,0.0,1.0,L,True,Unknown
+537340,2026-06-14,GROUP_STAGE,GROUP_C,Scotland,Haiti,1.0,0.0,W,False,Unknown
+537346,2026-06-14,GROUP_STAGE,GROUP_D,Australia,Turkey,2.0,0.0,W,True,Unknown
+537346,2026-06-14,GROUP_STAGE,GROUP_D,Turkey,Australia,0.0,2.0,L,False,Unknown
+537351,2026-06-14,GROUP_STAGE,GROUP_E,Germany,Curaçao,7.0,1.0,W,True,Unknown
+537351,2026-06-14,GROUP_STAGE,GROUP_E,Curaçao,Germany,1.0,7.0,L,False,Unknown
+537357,2026-06-14,GROUP_STAGE,GROUP_F,Netherlands,Japan,2.0,2.0,D,True,Unknown
+537357,2026-06-14,GROUP_STAGE,GROUP_F,Japan,Netherlands,2.0,2.0,D,False,Unknown
+537352,2026-06-14,GROUP_STAGE,GROUP_E,Ivory Coast,Ecuador,1.0,0.0,W,True,Unknown
+537352,2026-06-14,GROUP_STAGE,GROUP_E,Ecuador,Ivory Coast,0.0,1.0,L,False,Unknown
+537358,2026-06-15,GROUP_STAGE,GROUP_F,Sweden,Tunisia,5.0,1.0,W,True,Unknown
+537358,2026-06-15,GROUP_STAGE,GROUP_F,Tunisia,Sweden,1.0,5.0,L,False,Unknown
+537369,2026-06-15,GROUP_STAGE,GROUP_H,Spain,Cape Verde Islands,0.0,0.0,D,True,Unknown
+537369,2026-06-15,GROUP_STAGE,GROUP_H,Cape Verde Islands,Spain,0.0,0.0,D,False,Unknown
+537363,2026-06-15,GROUP_STAGE,GROUP_G,Belgium,Egypt,1.0,1.0,D,True,Unknown
+537363,2026-06-15,GROUP_STAGE,GROUP_G,Egypt,Belgium,1.0,1.0,D,False,Unknown
+537370,2026-06-15,GROUP_STAGE,GROUP_H,Saudi Arabia,Uruguay,1.0,1.0,D,True,Unknown
+537370,2026-06-15,GROUP_STAGE,GROUP_H,Uruguay,Saudi Arabia,1.0,1.0,D,False,Unknown
+537364,2026-06-16,GROUP_STAGE,GROUP_G,Iran,New Zealand,2.0,2.0,D,True,Unknown
+537364,2026-06-16,GROUP_STAGE,GROUP_G,New Zealand,Iran,2.0,2.0,D,False,Unknown
+537391,2026-06-16,GROUP_STAGE,GROUP_I,France,Senegal,3.0,1.0,W,True,Unknown
+537391,2026-06-16,GROUP_STAGE,GROUP_I,Senegal,France,1.0,3.0,L,False,Unknown
+537392,2026-06-16,GROUP_STAGE,GROUP_I,Iraq,Norway,1.0,4.0,L,True,Unknown
+537392,2026-06-16,GROUP_STAGE,GROUP_I,Norway,Iraq,4.0,1.0,W,False,Unknown
+537397,2026-06-17,GROUP_STAGE,GROUP_J,Argentina,Algeria,3.0,0.0,W,True,Unknown
+537397,2026-06-17,GROUP_STAGE,GROUP_J,Algeria,Argentina,0.0,3.0,L,False,Unknown
+537398,2026-06-17,GROUP_STAGE,GROUP_J,Austria,Jordan,3.0,1.0,W,True,Unknown
+537398,2026-06-17,GROUP_STAGE,GROUP_J,Jordan,Austria,1.0,3.0,L,False,Unknown
+537403,2026-06-17,GROUP_STAGE,GROUP_K,Portugal,Congo DR,1.0,1.0,D,True,Unknown
+537403,2026-06-17,GROUP_STAGE,GROUP_K,Congo DR,Portugal,1.0,1.0,D,False,Unknown
+537409,2026-06-17,GROUP_STAGE,GROUP_L,England,Croatia,4.0,2.0,W,True,Unknown
+537409,2026-06-17,GROUP_STAGE,GROUP_L,Croatia,England,2.0,4.0,L,False,Unknown
+537410,2026-06-17,GROUP_STAGE,GROUP_L,Ghana,Panama,1.0,0.0,W,True,Unknown
+537410,2026-06-17,GROUP_STAGE,GROUP_L,Panama,Ghana,0.0,1.0,L,False,Unknown
+537404,2026-06-18,GROUP_STAGE,GROUP_K,Uzbekistan,Colombia,1.0,3.0,L,True,Unknown
+537404,2026-06-18,GROUP_STAGE,GROUP_K,Colombia,Uzbekistan,3.0,1.0,W,False,Unknown
+537329,2026-06-18,GROUP_STAGE,GROUP_A,Czechia,South Africa,1.0,1.0,D,True,Unknown
+537329,2026-06-18,GROUP_STAGE,GROUP_A,South Africa,Czechia,1.0,1.0,D,False,Unknown
+537335,2026-06-18,GROUP_STAGE,GROUP_B,Switzerland,Bosnia-Herzegovina,4.0,1.0,W,True,Unknown
+537335,2026-06-18,GROUP_STAGE,GROUP_B,Bosnia-Herzegovina,Switzerland,1.0,4.0,L,False,Unknown
+537336,2026-06-18,GROUP_STAGE,GROUP_B,Canada,Qatar,6.0,0.0,W,True,Unknown
+537336,2026-06-18,GROUP_STAGE,GROUP_B,Qatar,Canada,0.0,6.0,L,False,Unknown
+537330,2026-06-19,GROUP_STAGE,GROUP_A,Mexico,South Korea,1.0,0.0,W,True,Unknown
+537330,2026-06-19,GROUP_STAGE,GROUP_A,South Korea,Mexico,0.0,1.0,L,False,Unknown
+537348,2026-06-19,GROUP_STAGE,GROUP_D,United States,Australia,2.0,0.0,W,True,Unknown
+537348,2026-06-19,GROUP_STAGE,GROUP_D,Australia,United States,0.0,2.0,L,False,Unknown
+537342,2026-06-19,GROUP_STAGE,GROUP_C,Scotland,Morocco,0.0,1.0,L,True,Unknown
+537342,2026-06-19,GROUP_STAGE,GROUP_C,Morocco,Scotland,1.0,0.0,W,False,Unknown
+537341,2026-06-20,GROUP_STAGE,GROUP_C,Brazil,Haiti,3.0,0.0,W,True,Unknown
+537341,2026-06-20,GROUP_STAGE,GROUP_C,Haiti,Brazil,0.0,3.0,L,False,Unknown
+537347,2026-06-20,GROUP_STAGE,GROUP_D,Turkey,Paraguay,0.0,1.0,L,True,Unknown
+537347,2026-06-20,GROUP_STAGE,GROUP_D,Paraguay,Turkey,1.0,0.0,W,False,Unknown
+537359,2026-06-20,GROUP_STAGE,GROUP_F,Netherlands,Sweden,5.0,1.0,W,True,Unknown
+537359,2026-06-20,GROUP_STAGE,GROUP_F,Sweden,Netherlands,1.0,5.0,L,False,Unknown
+537353,2026-06-20,GROUP_STAGE,GROUP_E,Germany,Ivory Coast,2.0,1.0,W,True,Unknown
+537353,2026-06-20,GROUP_STAGE,GROUP_E,Ivory Coast,Germany,1.0,2.0,L,False,Unknown
+537354,2026-06-21,GROUP_STAGE,GROUP_E,Ecuador,Curaçao,0.0,0.0,D,True,Unknown
+537354,2026-06-21,GROUP_STAGE,GROUP_E,Curaçao,Ecuador,0.0,0.0,D,False,Unknown
+537360,2026-06-21,GROUP_STAGE,GROUP_F,Tunisia,Japan,0.0,4.0,L,True,Unknown
+537360,2026-06-21,GROUP_STAGE,GROUP_F,Japan,Tunisia,4.0,0.0,W,False,Unknown
+537371,2026-06-21,GROUP_STAGE,GROUP_H,Spain,Saudi Arabia,4.0,0.0,W,True,Unknown
+537371,2026-06-21,GROUP_STAGE,GROUP_H,Saudi Arabia,Spain,0.0,4.0,L,False,Unknown
+537365,2026-06-21,GROUP_STAGE,GROUP_G,Belgium,Iran,0.0,0.0,D,True,Unknown
+537365,2026-06-21,GROUP_STAGE,GROUP_G,Iran,Belgium,0.0,0.0,D,False,Unknown
+537372,2026-06-21,GROUP_STAGE,GROUP_H,Uruguay,Cape Verde Islands,2.0,2.0,D,True,Unknown
+537372,2026-06-21,GROUP_STAGE,GROUP_H,Cape Verde Islands,Uruguay,2.0,2.0,D,False,Unknown
+537366,2026-06-22,GROUP_STAGE,GROUP_G,New Zealand,Egypt,1.0,3.0,L,True,Unknown
+537366,2026-06-22,GROUP_STAGE,GROUP_G,Egypt,New Zealand,3.0,1.0,W,False,Unknown
+537399,2026-06-22,GROUP_STAGE,GROUP_J,Argentina,Austria,2.0,0.0,W,True,Unknown
+537399,2026-06-22,GROUP_STAGE,GROUP_J,Austria,Argentina,0.0,2.0,L,False,Unknown
+537393,2026-06-22,GROUP_STAGE,GROUP_I,France,Iraq,3.0,0.0,W,True,Unknown
+537393,2026-06-22,GROUP_STAGE,GROUP_I,Iraq,France,0.0,3.0,L,False,Unknown
+537394,2026-06-23,GROUP_STAGE,GROUP_I,Norway,Senegal,3.0,2.0,W,True,Unknown
+537394,2026-06-23,GROUP_STAGE,GROUP_I,Senegal,Norway,2.0,3.0,L,False,Unknown
+537400,2026-06-23,GROUP_STAGE,GROUP_J,Jordan,Algeria,1.0,2.0,L,True,Unknown
+537400,2026-06-23,GROUP_STAGE,GROUP_J,Algeria,Jordan,2.0,1.0,W,False,Unknown
+537405,2026-06-23,GROUP_STAGE,GROUP_K,Portugal,Uzbekistan,5.0,0.0,W,True,Unknown
+537405,2026-06-23,GROUP_STAGE,GROUP_K,Uzbekistan,Portugal,0.0,5.0,L,False,Unknown
+537411,2026-06-23,GROUP_STAGE,GROUP_L,England,Ghana,0.0,0.0,D,True,Unknown
+537411,2026-06-23,GROUP_STAGE,GROUP_L,Ghana,England,0.0,0.0,D,False,Unknown
+537412,2026-06-23,GROUP_STAGE,GROUP_L,Panama,Croatia,0.0,1.0,L,True,Unknown
+537412,2026-06-23,GROUP_STAGE,GROUP_L,Croatia,Panama,1.0,0.0,W,False,Unknown
+537406,2026-06-24,GROUP_STAGE,GROUP_K,Colombia,Congo DR,1.0,0.0,W,True,Unknown
+537406,2026-06-24,GROUP_STAGE,GROUP_K,Congo DR,Colombia,0.0,1.0,L,False,Unknown
+537337,2026-06-24,GROUP_STAGE,GROUP_B,Switzerland,Canada,2.0,1.0,W,True,Unknown
+537337,2026-06-24,GROUP_STAGE,GROUP_B,Canada,Switzerland,1.0,2.0,L,False,Unknown
+537338,2026-06-24,GROUP_STAGE,GROUP_B,Bosnia-Herzegovina,Qatar,3.0,1.0,W,True,Unknown
+537338,2026-06-24,GROUP_STAGE,GROUP_B,Qatar,Bosnia-Herzegovina,1.0,3.0,L,False,Unknown
+537344,2026-06-24,GROUP_STAGE,GROUP_C,Morocco,Haiti,4.0,2.0,W,True,Unknown
+537344,2026-06-24,GROUP_STAGE,GROUP_C,Haiti,Morocco,2.0,4.0,L,False,Unknown
+537343,2026-06-24,GROUP_STAGE,GROUP_C,Scotland,Brazil,0.0,3.0,L,True,Unknown
+537343,2026-06-24,GROUP_STAGE,GROUP_C,Brazil,Scotland,3.0,0.0,W,False,Unknown
+537331,2026-06-25,GROUP_STAGE,GROUP_A,Czechia,Mexico,0.0,3.0,L,True,Unknown
+537331,2026-06-25,GROUP_STAGE,GROUP_A,Mexico,Czechia,3.0,0.0,W,False,Unknown
+537332,2026-06-25,GROUP_STAGE,GROUP_A,South Africa,South Korea,1.0,0.0,W,True,Unknown
+537332,2026-06-25,GROUP_STAGE,GROUP_A,South Korea,South Africa,0.0,1.0,L,False,Unknown
+537355,2026-06-25,GROUP_STAGE,GROUP_E,Ecuador,Germany,2.0,1.0,W,True,Unknown
+537355,2026-06-25,GROUP_STAGE,GROUP_E,Germany,Ecuador,1.0,2.0,L,False,Unknown
+537356,2026-06-25,GROUP_STAGE,GROUP_E,Curaçao,Ivory Coast,0.0,2.0,L,True,Unknown
+537356,2026-06-25,GROUP_STAGE,GROUP_E,Ivory Coast,Curaçao,2.0,0.0,W,False,Unknown
+537361,2026-06-25,GROUP_STAGE,GROUP_F,Tunisia,Netherlands,1.0,3.0,L,True,Unknown
+537361,2026-06-25,GROUP_STAGE,GROUP_F,Netherlands,Tunisia,3.0,1.0,W,False,Unknown
+537362,2026-06-25,GROUP_STAGE,GROUP_F,Japan,Sweden,1.0,1.0,D,True,Unknown
+537362,2026-06-25,GROUP_STAGE,GROUP_F,Sweden,Japan,1.0,1.0,D,False,Unknown
+537349,2026-06-26,GROUP_STAGE,GROUP_D,Turkey,United States,3.0,2.0,W,True,Unknown
+537349,2026-06-26,GROUP_STAGE,GROUP_D,United States,Turkey,2.0,3.0,L,False,Unknown
+537350,2026-06-26,GROUP_STAGE,GROUP_D,Paraguay,Australia,0.0,0.0,D,True,Unknown
+537350,2026-06-26,GROUP_STAGE,GROUP_D,Australia,Paraguay,0.0,0.0,D,False,Unknown
+537395,2026-06-26,GROUP_STAGE,GROUP_I,Norway,France,1.0,4.0,L,True,Unknown
+537395,2026-06-26,GROUP_STAGE,GROUP_I,France,Norway,4.0,1.0,W,False,Unknown
+537396,2026-06-26,GROUP_STAGE,GROUP_I,Senegal,Iraq,5.0,0.0,W,True,Unknown
+537396,2026-06-26,GROUP_STAGE,GROUP_I,Iraq,Senegal,0.0,5.0,L,False,Unknown
+537373,2026-06-27,GROUP_STAGE,GROUP_H,Uruguay,Spain,0.0,1.0,L,True,Unknown
+537373,2026-06-27,GROUP_STAGE,GROUP_H,Spain,Uruguay,1.0,0.0,W,False,Unknown
+537374,2026-06-27,GROUP_STAGE,GROUP_H,Cape Verde Islands,Saudi Arabia,0.0,0.0,D,True,Unknown
+537374,2026-06-27,GROUP_STAGE,GROUP_H,Saudi Arabia,Cape Verde Islands,0.0,0.0,D,False,Unknown
+537367,2026-06-27,GROUP_STAGE,GROUP_G,New Zealand,Belgium,1.0,5.0,L,True,Unknown
+537367,2026-06-27,GROUP_STAGE,GROUP_G,Belgium,New Zealand,5.0,1.0,W,False,Unknown
+537368,2026-06-27,GROUP_STAGE,GROUP_G,Egypt,Iran,1.0,1.0,D,True,Unknown
+537368,2026-06-27,GROUP_STAGE,GROUP_G,Iran,Egypt,1.0,1.0,D,False,Unknown
+537413,2026-06-27,GROUP_STAGE,GROUP_L,Panama,England,0.0,2.0,L,True,Unknown
+537413,2026-06-27,GROUP_STAGE,GROUP_L,England,Panama,2.0,0.0,W,False,Unknown
+537414,2026-06-27,GROUP_STAGE,GROUP_L,Croatia,Ghana,2.0,1.0,W,True,Unknown
+537414,2026-06-27,GROUP_STAGE,GROUP_L,Ghana,Croatia,1.0,2.0,L,False,Unknown
+537407,2026-06-27,GROUP_STAGE,GROUP_K,Colombia,Portugal,0.0,0.0,D,True,Unknown
+537407,2026-06-27,GROUP_STAGE,GROUP_K,Portugal,Colombia,0.0,0.0,D,False,Unknown
+537408,2026-06-27,GROUP_STAGE,GROUP_K,Congo DR,Uzbekistan,3.0,1.0,W,True,Unknown
+537408,2026-06-27,GROUP_STAGE,GROUP_K,Uzbekistan,Congo DR,1.0,3.0,L,False,Unknown
+537401,2026-06-28,GROUP_STAGE,GROUP_J,Jordan,Argentina,1.0,3.0,L,True,Unknown
+537401,2026-06-28,GROUP_STAGE,GROUP_J,Argentina,Jordan,3.0,1.0,W,False,Unknown
+537402,2026-06-28,GROUP_STAGE,GROUP_J,Algeria,Austria,3.0,3.0,D,True,Unknown
+537402,2026-06-28,GROUP_STAGE,GROUP_J,Austria,Algeria,3.0,3.0,D,False,Unknown
