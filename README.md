@@ -8,7 +8,7 @@ Real-time match data pipeline · Original Group Competitiveness Index · xG benc
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://el-mundial-26-pjdxl58gjmwggflt3gqbvz.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Open_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://worldcuplive.streamlit.app/)
 
 <br>
 
